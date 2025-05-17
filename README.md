@@ -71,9 +71,9 @@ MIT License. Silakan digunakan, dimodifikasi, dan disebarluaskan dengan tetap me
 
 Dibuat oleh: **MR.M05T3R | N.C.S (Newbie Cyber Security)**
 
-- Website Komunitas: [newbiecybersec.my.id](https://newbiecybersec.my.id)
+- Website Komunitas: [newbiecybersecuirty.hec.to](https://newbiecybersecuirty.hec.to/)
 - GitHub: [@RamaFounderNCS](https://github.com/RamaFounderNCS)
-- Telegram: [@newbiecybersec](https://t.me/newbiecybersec)
+- Instagram: [@offcncs](https://www.instagram.com/offcncs)
 
 ---
 
